@@ -47,7 +47,7 @@ function App() {
     }
     else{
       setMode('light');
-      document.body.style.backgroundColor = 'white'
+      document.body.style.backgroundColor = '#82b9e0'
       showAlert("Light mode has been enabled","success")
       document.title = 'TextUtils - Light Mode'
 
